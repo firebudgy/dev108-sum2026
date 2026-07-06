@@ -1,0 +1,4 @@
+# Add packages your labs need — installed automatically when a codespace starts.
+# Keep this list lean; every package adds a few seconds to startup time.
+
+pytest
