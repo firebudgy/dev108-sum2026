@@ -15,10 +15,18 @@ This repo gives you a ready-to-code Python environment in your browser — no in
 
 You'll need a free GitHub account to do this (github.com/join) if you don't already have one.
 
-## Instructor: setting this up for your class
+## Labs
 
-- **To hand this to students each term:** click **Use this template** (top of the repo page) to spin up a fresh copy per class/quarter, or just keep this one repo going and have students fork it.
-- **Adding lab files:** drop new `.py` files (or folders per assignment) into the repo; they'll show up for anyone who creates a new codespace. Students who already have a codespace running will need to pull the latest changes (`git pull` in the terminal, or the Source Control panel).
-- **Changing installed packages:** edit `requirements.txt` — anything listed there installs automatically the next time a codespace is built.
-- **Compute/storage limits:** each student's codespace usage counts against *their own* free GitHub quota (roughly 60 hours/month on a 2-core machine, 15 GB storage), not yours. Idle codespaces auto-stop after 30 minutes.
-- **No autograding here** — this is a bare coding environment. For grading, either have students submit via a shared repo/PR, or paste output into your LMS for now.
+| Lab | Topic |
+|---|---|
+| `lab01/` | Welcome to Python |
+| `lab02/` | Variables and User Input |
+| `lab03/` | Decisions and Control Structures |
+| `lab04/` | Looping |
+| `lab05/` | Functions |
+| `lab06/` | Testing and Debugging |
+| `lab07/` | File I/O and Exceptions |
+| `lab08/` | Strings |
+
+Each folder has a `main.py` starter file and a `instructions.md` file with that lab's instructions. You can also find the instructions in our Canvas class assignment. 
+
